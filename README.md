@@ -8,8 +8,8 @@ I am a coding enthusiast who wants to learn something new and cool in programmin
 
 Yeah I have a big bucket list of what I want to create out of my coding skills (which might come in the future). So here it goes.
 
-### -[] A game made using pygame
+### -[ ] A game made using pygame
 
-### -[] A fully functional discord bot using python
+### -[ ] A fully functional discord bot using python
 
-### -[] A cool looking portfolio website 😎
+### -[ ] A cool looking portfolio website 😎
