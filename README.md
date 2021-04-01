@@ -12,7 +12,7 @@ Right now nothing much ... But ya soon you will see something or the other right
 
 Yeah I have a big bucket list of what I want to create out of my coding skills (which might come in the future). So here it goes.
 
-- [ ] **_A game made using pygame_**
+- [ ] **_✨ A game made using pygame ✨_**
 
   #### Tasks
 
@@ -21,7 +21,7 @@ Yeah I have a big bucket list of what I want to create out of my coding skills (
   - [ ] Finding the right logic
   - [ ] Coding it out
 
-- [ ] **_A fully functional discord bot using python_**
+- [ ] **_✨ A fully functional discord bot using python ✨_**
 
   #### Tasks
 
@@ -31,7 +31,7 @@ Yeah I have a big bucket list of what I want to create out of my coding skills (
   - [ ] Making a webpage for it
   - [ ] Just deploy it 💻
 
-- [ ] **_A cool looking portfolio website 😎_**
+- [ ] **_✨ A cool looking portfolio website 😎 ✨_**
 
   #### Tasks (Really don't know what to put in at the moment)
 
