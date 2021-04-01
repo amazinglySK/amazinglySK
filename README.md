@@ -6,13 +6,7 @@ I am a coding enthusiast who wants to learn something new and cool in programmin
 
 ### Working on ⌨
 
-The discord bot in the bucket list.. Making some new commands to run.. At the same time going through the discord.py documentation since I have no clue what to write.
-
-Learning to parse csv files and create a token system for the bot.
-Right now my tasks are:
-
-- [ ] Think of the correct logic as to how to execute this
-- [ ] Code a new file that runs the points system with a new class name (ig it would be _points_)
+Right now nothing much ... But ya soon you will see something or the other right here...
 
 ### My Bucket List
 
