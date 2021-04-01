@@ -8,6 +8,12 @@ I am a coding enthusiast who wants to learn something new and cool in programmin
 
 The discord bot in the bucket list.. Making some new commands to run.. At the same time going through the discord.py documentation since I have no clue what to write.
 
+Learning to parse csv files and create a token system for the bot.
+Right now my tasks are:
+
+- [ ] Think of the correct logic as to how to execute this
+- [ ] Code a new file that runs the points system with a new class name (ig it would be _points_)
+
 ### My Bucket List
 
 Yeah I have a big bucket list of what I want to create out of my coding skills (which might come in the future). So here it goes.
@@ -27,6 +33,7 @@ Yeah I have a big bucket list of what I want to create out of my coding skills (
 
   - [x] Coming up with a name
   - [x] Giving some commands
+  - [ ] Create a point system
   - [ ] Finiding out some exceptional ideas
   - [ ] Making a webpage for it
   - [ ] Just deploy it 💻
