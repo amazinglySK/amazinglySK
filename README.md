@@ -8,34 +8,3 @@ I am a coding enthusiast who wants to learn something new and cool in programmin
 
 Right now nothing much ... But ya soon you will see something or the other right here...
 
-### My Bucket List
-
-Yeah I have a big bucket list of what I want to create out of my coding skills (which might come in the future). So here it goes.
-
-- [ ] **_✨ A game made using pygame ✨_**
-
-  #### Tasks
-
-  - [ ] Giving it a name
-  - [ ] Finding a good idea
-  - [ ] Finding the right logic
-  - [ ] Coding it out
-
-- [ ] **_✨ A fully functional discord bot using python ✨_**
-
-  #### Tasks
-
-  - [x] Coming up with a name
-  - [x] Giving some commands
-  - [ ] Create a point system
-  - [ ] Finiding out some exceptional ideas
-  - [ ] Making a webpage for it
-  - [ ] Just deploy it 💻
-
-- [ ] **_✨ A cool looking portfolio website 😎 ✨_**
-
-  #### Tasks (Really don't know what to put in at the moment)
-
-  - [ ] Some cool functionalities
-  - [ ] Some cool animations
-  - [ ] Come up with a unique idea
