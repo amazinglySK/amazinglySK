@@ -1,6 +1,13 @@
-## Hey there I am _amazinglySK_ !!
+## ✨ I am amazinglySK !!
+A senior in high school trying to major in computer science and eventually pursue a course and career in data science. Trying to keep up with the pace of teachnology and learning and building projects. 
 
-### About me
+## 🌟 A bit more about me 
+1. 🦀🐹 Currently learning a mix of go and rust and adapting to polyglot programming.
+2. 🤔 Ruminating over my success in implementing dijkstra's 
+3. 🏫 Trying to complete cs50 lectures
 
-I am a coding enthusiast who wants to learn something new and cool in programming every single day. I try learning something new.. Get tired but start again.. Coding is my hobby which I pursue in my pass time. The language which I have picked up right now is python and some basic html, js and css. I am not an expert in any of them. Just keep learning something new from hither and thither every day. And that's exactly my motto.
+## 💻 Skills
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 
+## 📊 Statistics
+![amazinglySK's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazinglySK&theme=synthwave&show_icons=true&count_private=true&custom_title=amazinglySK%27s%20GitHub%20Stats)
