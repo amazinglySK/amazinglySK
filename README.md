@@ -5,6 +5,7 @@ A junior in high school looking forward to major in computer science and eventua
 1. 🦀🐹 Currently learning a mix of go and rust and adapting to polyglot programming.
 2. 🤔 Ruminating over my success in implementing dijkstra's 
 3. 🏫 Trying to complete cs50 lectures
+4. 👀 Learn more about me at my website - [amazinglysk.netlify.app](https://amazinglysk.netlify.app)
 
 ## 💻 Skills
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="margin-bottom: 4px;" height="30px">
