@@ -1,5 +1,5 @@
 ## ✨ I am amazinglySK !!
-A junior in high school looking forward to major in computer science and eventually pursue a course and career in data science. Trying to keep up with the pace of teachnology and learning and building projects. 
+A junior in high school looking forward to major in computer science and eventually pursue a course and career in data science. Trying to keep up with the pace of technology and learning and building projects. 
 
 ## 🌟 A bit more about me 
 1. 🦀🐹 Currently learning a mix of go and rust and adapting to polyglot programming.
