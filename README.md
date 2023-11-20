@@ -3,8 +3,8 @@ A junior in high school looking forward to major in computer science and eventua
 
 ## 🌟 A bit more about me 
 1. 🤔 Checking out svelte
-2. 👀 Learn more about me at my website - [amazinglysk.netlify.app](https://amazinglysk.netlify.app)
-3. ✏️ Bloggin' at my blog : [stylus](https://amazinglysk.netlify.app/blog)
+2. 👀 Learn more about me at my website - [amazinglysk.vercel.app](https://amazinglysk.vercel.app)
+3. ✏️ Bloggin' at my blog : [stylus](https://amazinglysk.vercel.app/blog)
 3. ✌️ Pronouns : he/him
 
 ## 💻 Skills
