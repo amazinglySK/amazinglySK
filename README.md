@@ -2,9 +2,8 @@
 A senior in high school looking forward to majoring in computer science and eventually pursuing a course and career in data science. Trying to keep up with the pace of technology and building projects from my workstation. 
 
 ## 🌟 A bit more about me 
-1. 🧠 Preparing for [Advent of Code 2023](https://adventofcode.com)
-2. 👀 Learn more about me at my website: [amazinglysk.vercel.app](https://amazinglysk.vercel.app)
-3. ✏️ Bloggin' at my blog: [stylus](https://amazinglysk.vercel.app/blog)
+1. 👀 Learn more about me at my website: [amazinglysk.vercel.app](https://amazinglysk.vercel.app)
+2. ✏️ Bloggin' at my blog: [stylus](https://amazinglysk.vercel.app/blog)
 3. ✌️ Pronouns: he/him
 
 ## 💻 Skills
