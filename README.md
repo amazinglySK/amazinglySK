@@ -3,7 +3,7 @@ Sophomore at MSU majoring in computer science and advanced math. Keeping up with
 
 ## 🌟 A bit more about me 
 1. 👀 Learn more about me at my website: [amazinglysk.vercel.app](https://amazinglysk.vercel.app)
-2. ✏️ Bloggin' at my blog: [stylus](https://amazinglysk.wiki/blog)
+2. ✏️ Bloggin' at my blog: [stylus](https://amazinglysk.vercel.app/blog)
 3. ✌️ Pronouns: he/him
 
 ## 💻 Skills
