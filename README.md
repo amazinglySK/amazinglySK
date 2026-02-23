@@ -2,7 +2,7 @@
 Sophomore at MSU majoring in computer science and advanced math. Keeping up with the pace of technology and building projects from my workstation, writing one line of code at a time. Huge LLM fan. Currently researching on using LLMs to predict time series data and its effectiveness in capturing the irregularities over trend. 
 
 ## 🌟 A bit more about me 
-1. 👀 Learn more about me at my website: [amazinglysk.wiki](https://amazinglysk.wiki)
+1. 👀 Learn more about me at my website: [amazinglysk.vercel.app](https://amazinglysk.vercel.app)
 2. ✏️ Bloggin' at my blog: [stylus](https://amazinglysk.wiki/blog)
 3. ✌️ Pronouns: he/him
 
